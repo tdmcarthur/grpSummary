@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n# depends script\n\n# First, check that these work:\n# install.packages(c(\"devtools\", \"roxygen2\", \"knitr\", \"testthat\", \"ggplot2\"))\ndevtools::find_rtools()\ndevtools::has_devel()\n\n# Then input this:\n\ndevtools::use_package(\"effsize\")\n\ndevtools::document()\n\n# Then in RSudio --> Build --> Clean and rebuild\n\n\n",
+    "created" : 1464555369727.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2009947010",
+    "id" : "BA63BBAE",
+    "lastKnownWriteTime" : 1464653490,
+    "last_content_update" : 1464653490766,
+    "path" : "~/git/grpSummary/pre-built-script.r",
+    "project_path" : "pre-built-script.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

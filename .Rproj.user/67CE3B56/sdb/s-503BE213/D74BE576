@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: grpSummary\nType: Package\nTitle: Produces Summary Statistics of Data by Groups\nVersion: 0.1.0\nAuthor: Travis McArthur <travis.d.mcarthur@gmail.com>, Reka Sundaram-Stukel\nMaintainer: Travis McArthur <travis.d.mcarthur@gmail.com>\nDescription: More about what it does (maybe more than one line)\nLicense: MIT + file LICENSE\nLazyData: TRUE\nImports:\n    effsize\nRoxygenNote: 5.0.1\n",
+    "created" : 1464558472632.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "753025493",
+    "id" : "D74BE576",
+    "lastKnownWriteTime" : 1464560196,
+    "last_content_update" : 1464560196477,
+    "path" : "~/git/grpSummary/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
