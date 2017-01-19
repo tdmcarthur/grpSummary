@@ -3,7 +3,7 @@
 #' This is a riveting description that describes what your function does. This
 #' is a link to \code{\link{hello}}.
 #'
-#' @param instructions.data A data frame on which to perform the summary.
+#' @param input.data A data frame on which to perform the summary.
 #' @param instructions.data A data frame. See 'Details'.
 #' @param factors.as.numeric TODO
 #' @param progress.bar logical. Whether to display a progress bar while calculations are being carried out.
@@ -43,7 +43,7 @@
 #' @seealso \code{\link{hello}}
 #'
 #' @examples
-#' adder(1, 2)
+#'
 #'
 #'
 #'

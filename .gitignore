@@ -4,3 +4,4 @@
 .Rdata
 .DS_Store
 .Rbuildignore
+.Rproj.user

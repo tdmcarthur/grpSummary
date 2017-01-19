@@ -8,13 +8,13 @@ grpSummary(input.data, instructions.data, factors.as.numeric = TRUE,
   progress.bar = TRUE)
 }
 \arguments{
-\item{instructions.data}{A data frame on which to perform the summary.}
+\item{input.data}{A data frame on which to perform the summary.}
+
+\item{instructions.data}{A data frame. See 'Details'.}
 
 \item{factors.as.numeric}{TODO}
 
 \item{progress.bar}{logical. Whether to display a progress bar while calculations are being carried out.}
-
-\item{instructions.data}{A data frame. See 'Details'.}
 }
 \value{
 Returns a matrix containing the results of the summary operations
@@ -52,7 +52,7 @@ function. Input example: mean;sd;median
 * cohen.d: Must be either "TRUE" or "FALSE". Indicates whether to calculate Cohen's d.
 }
 \examples{
-adder(1, 2)
+
 
 
 
